@@ -12,6 +12,9 @@ layout: default
 			<h3>{{ post.subtitle }}</h3>
 			{% endif %}
 			<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">
+				{% if post.image %}
+				<img src="/img/{{post.image}}">
+				{% endif %}
 				{{ post.date | date: "%Y-%m-%d" }}</time>
 	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
 	  </li>

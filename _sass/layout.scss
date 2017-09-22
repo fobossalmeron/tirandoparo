@@ -253,6 +253,14 @@ footer {
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
+  position: relative;
+  display:block;
+  float: left;
+  width: 100%;
+  span{
+    width:100%;
+    float:left;
+  }
 }
 
 
@@ -304,4 +312,39 @@ form button {
   }
 form button:hover,form button:active,form button:focus {
   background: #43A047;
+}
+.socialDiv{
+  float: left;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px;
+}
+.social{
+  position: relative;
+  width: 150px;
+  max-height: 90px;
+  float: left;
+  display: block;
+  margin: 20px 0;
+  transition: .4s ease;
+  &:hover{
+    svg{
+      fill: darken($main-color, 10%)
+    }
+  }
+  a{
+    color: $background-color;
+  }
+  svg{
+    fill: $background-color;
+    height:100px;
+      transition: .4s ease;
+  }
+}
+.facebook{
+  svg{
+    max-height: 78px;
+    margin-top: 11px;
+  }
 }

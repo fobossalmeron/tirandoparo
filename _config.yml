@@ -1,11 +1,7 @@
 # Site settings
 title: '#tirandoparo'
-description: "Guía contra la desinformación"
+description: "Guía contra la desinformación. Contenidos con lineamientos para evitar la desinformación en los entornos digitales. Una iniciativa por diseñadores y comunicólogos de Centro y la Ibero."
 url: "http://tirandoparo.mx"
-author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /

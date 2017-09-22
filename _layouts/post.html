@@ -7,13 +7,8 @@ layout: default
 		Actualizado el {{ "now" | date: "%Y-%m-%d %H:%M" }}</time>
 	<div class="content">
  {% if page.image %}
- <img src="{{page.image}}">
+ <img src="/img/{{page.image}}">
  {% endif %}
 		{{ content }}
-		<li class="facebook">
-				<a href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank">
-						share on facebook
-				</a>
-		</li>
 	</div>
 </article>
