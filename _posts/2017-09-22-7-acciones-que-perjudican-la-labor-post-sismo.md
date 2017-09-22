@@ -1,7 +1,7 @@
 ---
 title: 7 acciones con las que perjudico las labores post-sismo
 subtitle: Desde mandar un whatsapp hasta organizar centros de acopio puede resultar contraproducente si no cuidas estos detalles
-image: sieteacciones.jpg
+image: recorteartex.jpg
 imagetwo: recorteartex.jpg
 ---
 En el revuelto que genera una catástrofe sísmica **obstruir las acciones y protocolos para solucionar problemas es más fácil de lo que piensas**. La ansiedad por ayudar a los necesitados puede hacer que pases por alto varios detalles que terminarán por perjudicar las labores post-temblor.
