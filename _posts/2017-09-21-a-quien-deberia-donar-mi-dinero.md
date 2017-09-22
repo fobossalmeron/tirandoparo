@@ -1,7 +1,7 @@
 ---
 title: ¿A quién debería donar mi dinero?
 subtitle: Las 5 cuentas primordiales que necesitan tu apoyo
-image: /donar.jpg
+image: donar.jpg
 ---
 
 El apoyo en calles es fundamental, pero **las donaciones monetarias son primordiales para la reconstrucción de daños, damnificados y materiales**.

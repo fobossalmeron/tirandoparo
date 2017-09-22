@@ -1,7 +1,7 @@
 ---
 title: ¿Qué fuentes necesito para mantenerme informado?
 subtitle: Evita la desinformación y fíate de estos medios oficiales.
-image: /fuentes.jpg
+image: fuentes.jpg
 ---
 
 **Para evitar información falsa o caduca es importante que verifiques la fuente de donde proviene**. Informarte correctamente involucra estar al pendiente de las cuentas gubernamentales para conocer el estatus de desaparecidos, zonas de riesgo y noticias relacionadas

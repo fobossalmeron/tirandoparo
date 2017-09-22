@@ -3,7 +3,11 @@
 	<meta property="og:type"               content="article" />
 	<meta property="og:title"              content="{{page.title}}" />
 	<meta property="og:description"        content="{{page.subtitle}}" />
-	<meta property="og:image"              content="http://tirandoparo.mx/img/{{page.image}}" />
+		{% if page.imagetwo %}
+		<meta property="og:image"              content="http://tirandoparo.mx/img/{{page.imagetwo}}" />
+		{% else %}
+		<meta property="og:image"              content="http://tirandoparo.mx/img/{{page.image}}" />
+		{% endif%}
 	{% else %}
 	<meta property="og:url"                content="{{ site.url }}" />
 	<meta property="og:type"               content="website" />

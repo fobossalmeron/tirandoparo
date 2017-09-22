@@ -1,7 +1,7 @@
 ---
 title: Recibí información después del sismo, ¿Cómo la difundo?
 subtitle: Compartir noticias no es útil si no estás seguro de lo que estás mandando
-image: /comoladifundo.jpg
+image: comoladifundo.jpg
 ---
 Bombardear con información tus redes y mensajes de fuentes desconocidas satura las vías de comunicación y entorpece la ayuda. **El texto, audio o video que acabas de recibir podría ser información caduca o falsa**, antes de reenviar un mensaje, considera los siguientes puntos:
 
