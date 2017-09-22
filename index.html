@@ -7,16 +7,17 @@ layout: default
 	{% for post in paginator.posts %}
 
 	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+			<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
+	  	<h2>{{ post.title }}</h2>
 			{% if post.subtitle %}
 			<h3>{{ post.subtitle }}</h3>
 			{% endif %}
 			<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">
+				{{ post.date | date: "%Y-%m-%d" }}</time>
 				{% if post.image %}
 				<img src="/img/{{post.image}}">
 				{% endif %}
-				{{ post.date | date: "%Y-%m-%d" }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+			</a>
 	  </li>
 
     {% endfor %}

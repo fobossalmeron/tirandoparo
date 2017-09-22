@@ -9,7 +9,7 @@ image: /fuentes.jpg
 Aquí una lista de fuentes oficiales:
 * Gobierno de la Ciudad de México, [www.cdmx.gob.mx](http://www.cdmx.gob.mx/)
   * Fb: [Gobierno de la Ciudad de México](https://www.facebook.com/GobiernoCDMX/)
-  * Tw: [@GobCDMX](http://@GobCDMX)
+  * Tw: [@GobCDMX](https://twitter.com/gobcdmx)
 * Miguel Ángel Mancera, Jefe de Gobierno CDMX
   * Fb: [Miguel Ángel Mancera](https://www.facebook.com/MiguelAngelMancera/)
   * Tw: [@ManceraMiguelMX](https://twitter.com/ManceraMiguelMX)
@@ -18,9 +18,9 @@ Aquí una lista de fuentes oficiales:
   * Tw: [@Dif_NMX](https://twitter.com/dif_nmx)
 * Secretaría de Gobernación, [www.gob.mx/segob](https://www.gob.mx/segob)
   * Fb: [Secretaría de Gobernación](https://www.facebook.com/SecretariadeGobernacion/)
-  * Tw: [@Segob_mx ](https://twitter.com/segob_mx?lang=es)
+  * Tw: [@Segob_mx ](https://twitter.com/segob_mx)
 * Secretaría de Seguridad Pública, [www.ssp.cdmx.gob.mx/](http://www.ssp.cdmx.gob.mx/)
-  * Tw: [@SSP_CDMX](http://SSP_CDMX)
+  * Tw: [@SSP_CDMX](https://twitter.com/ssp_cdmx)
 * Presidencia de la República, [www.gob.mx/presidencia](https://www.gob.mx/presidencia/)
   * Fb: [Presidencia de la República](https://twitter.com/PresidenciaMX?lang=es)
   * Tw: [@PresidenciaMX](https://twitter.com/PresidenciaMX?lang=es)
