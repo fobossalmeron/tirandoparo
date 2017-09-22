@@ -1,7 +1,7 @@
 # Site settings
 title: '#tirandoparo'
 description: "Guía contra la desinformación"
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://tirandoparo.mx"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
@@ -13,8 +13,8 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 8
-paginate_path: /page:num/
+paginate: 6
+paginate_path: /pagina_:num/
 
 # Default values
 defaults:

@@ -39,6 +39,7 @@ html {
 a {
 	color: $main-color;
 	text-decoration: none;
+  cursor:pointer;
 	font-weight: 700;
 	&:hover,
 	&:focus {
