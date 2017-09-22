@@ -28,4 +28,4 @@ Aquí una lista de fuentes oficiales:
 
 Puedes seguir en twitter [ésta lista](https://twitter.com/ArtePedraza/lists/medios-oficiales-cdmx) que recopila todas las fuentes enlistadas.
 
-Si recibiste un mensaje con información, **antes de compartirlo verifica que tenga los [siguientes puntos](link una vez que esté el post)**.
+Si recibiste un mensaje con información, **antes de compartirlo verifica que tenga los [siguientes puntos](/recibi-informacion-del-sismo)**.

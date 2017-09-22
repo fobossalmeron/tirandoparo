@@ -62,4 +62,4 @@ Google donó 1 millón de dólares tras el sismo, además de facilitar Google Ma
 
 Se abrió un portal para donaciones donde **administrarán los recursos para enviarlos a las zonas más afectadas**, puedes donar $90.00 MXN, $350.00 MXN o $700.00 MXN; no es necesario tener una cuenta de Google, basta una tarjeta de crédito/débito.
 
-* Ingresa a: [onetoday.google.com](onetoday.google.com)
+* Ingresa a: [onetoday.google.com](http://onetoday.google.com)

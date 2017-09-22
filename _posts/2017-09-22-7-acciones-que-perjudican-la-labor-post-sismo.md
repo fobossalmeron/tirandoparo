@@ -45,5 +45,5 @@ Google y Facebook son los dos servicios en línea que más usuarios tienen en la
 Dos ejemplos son el [localizador de personas](http://google.org/personfinder/2017-puebla-mexico-earthquake) y el [seguimiento de locaciones importantes](http://google.org/crisismap/google.com/puebla-mexico-earthquake-es) (albergues, zonas afectadas, etc.) que Google proveyó durante los últimos días.
 
 # 7. Antes de donar, no verificando lo siguiente:
-**Medicamentos: que no estén abiertos o caducos**.
-**Alimentos: que no sean perecederos y vandalizarlos** como instruye [este meme](/img/meme.jpeg) (esto es importante para evitar que nadie utilice tus donativos con otro fin).
+* **Medicamentos: que no estén abiertos o caducos.**
+* **Alimentos: que no sean perecederos y vandalizarlos como instruye [este meme](/img/meme.jpeg)** (esto es importante para evitar que nadie utilice tus donativos con otro fin).
