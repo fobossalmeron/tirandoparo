@@ -1,8 +1,8 @@
 ---
 title: ¿Te llegó un whatsapp? Cómo difundir información
 subtitle: El mensaje, el audio o el video que te acaba de llegar podría ser información caduca o falsa
+image: img-test.png
 ---
-
 Viralizar la información no es útil si no estás seguro de lo que estás mandando. Antes de reenviar un mensaje te recomendamos seguir los siguientes puntos:
 
 - Si tu fuente es de primera mano, comparte si puedes ver material gráfico con fecha, hora y datos del testigo. Si necesitas grabar información encuentra una guía aquí –link–
