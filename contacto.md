@@ -3,7 +3,7 @@ layout: page
 title: 'Contacto'
 ---
 ## Contacto
-*#tirandoparo* somos tal tal haciendo tal
+Gracias por tu feedback.
 
 <form action="https://formspree.io/tskuanda@gmail.com"
       method="POST">

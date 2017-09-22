@@ -40,7 +40,7 @@ Si ya confirmaste que no hay centros de acopio en tus alrededores, antes de mont
 Consulta [aquí](http://www.cdmx.gob.mx/comunicacion/nota/centros-de-acopio-gobierno-de-cdmx) los centros de acopio oficiales en CDMX y [aquí](http://www.cdmx.gob.mx/comunicacion/nota/listado-de-albergues-cdmx) la lista de albergues existentes.
 
 ## 6. No aprovechar plataformas inteligentes para dar o buscar ayuda
-Google y Facebook son los dos servicios en línea que más usuarios tienen en la red. **Su capacidad de alcance es enorme** y las mismas compañías han optado por tener servicios de para buscar y dar ayuda cuando acontecen desastres naturales.
+Google y Facebook son los dos servicios en línea que más usuarios tienen en la red. **Su capacidad de alcance es enorme** y las mismas compañías han optado por tener servicios para buscar y dar ayuda cuando acontecen desastres naturales.
 
 Dos ejemplos son el [localizador de personas](http://google.org/personfinder/2017-puebla-mexico-earthquake) y el [seguimiento de locaciones importantes](http://google.org/crisismap/google.com/puebla-mexico-earthquake-es) (albergues, zonas afectadas, etc.) que Google proveyó durante los últimos días.
 

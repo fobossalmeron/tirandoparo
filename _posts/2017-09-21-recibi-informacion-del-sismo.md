@@ -6,7 +6,7 @@ image: /comoladifundo.jpg
 Bombardear con información tus redes y mensajes de fuentes desconocidas satura las vías de comunicación y entorpece la ayuda. **El texto, audio o video que acabas de recibir podría ser información caduca o falsa**, antes de reenviar un mensaje, considera los siguientes puntos:
 
 - Si tu fuente es de primera mano, **comparte únicamente si puedes ver material gráfico con fecha, hora y datos del testigo**. [Aquí](/como-difundir-informacion-del-sismo) te damos una guía sobre cómo debes difundir información.
-- **Ratifica la información con las autoridades correspondientes**. Consulta esta [lista de medios gubernamentales oficiales](link de post fuentes).
+- **Ratifica la información con las autoridades correspondientes**. Consulta esta [lista de medios gubernamentales oficiales](/fuentes-para-mantenerme-informado).
 - Si estás seguro de la información y las autoridades no informan **comunícate inmediatamente** (recuerda fuente, fecha y hora)
 - **Evita mandar notas de voz**, en estas no se puede verificar la fuente, fecha e identidad de quien las manda.
 
