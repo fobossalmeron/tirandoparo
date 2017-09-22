@@ -3,6 +3,9 @@ layout: default
 ---
 <article id="post-page">
 	<h2>{{ page.title }}</h2>
+	{% if page.subtitle %}
+	<h3>{{ page.subtitle }}</h3>
+	{% endif %}
 	<time datetime="{{ page.last_modified_at | date_to_xmlschema }}" class="by-line">
 		Actualizado el {{ "now" | date: "%Y-%m-%d %H:%M" }}</time>
 	<div class="content">

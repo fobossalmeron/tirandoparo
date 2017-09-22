@@ -1,7 +1,7 @@
 ---
 title: Como difundo información digital de primera mano
 subtitle: Sigue estos pasos para que tus publicaciones no desinformen
-image: /primeramano.png
+image: /primeramano.jpg
 ---
 
 ¿Viste caer un edificio, necesitas rescatistas, voluntarios, ayuda inmediata o solicitar material? **Te recomendamos grabar un video para reportar lo que necesites**. Los siguientes puntos ayudarán a que tu información viaje lo más rápido posible:
