@@ -5,26 +5,26 @@ image: donar.jpg
 ---
 
 El apoyo en calles es fundamental, pero **las donaciones monetarias son primordiales para la reconstrucción de daños, damnificados y materiales**.
-Te compartimos una lista de las organizaciones a las que puedes depositar tu dinero con plena confianza.
+Te compartimos una lista de las organizaciones a las que **puedes depositar tu dinero con plena confianza**.
 
 ## Topos
 
-Desde 1985 los Topos han auxiliado a México en situación de desastre. **Tu donación ayudará a la compra de materiales que permitan remover escombros para la búsqueda de sobrevivientes**.
+Desde 1985 los Topos han auxiliado a México en situación de desastre. **Tu donación ayudará a la compra de materiales que permitan remover escombros en la búsqueda de sobrevivientes**.
 
 * Tramite bancario:
   * Banco: Santander
   * Cuenta: 920 007 092 94
   * CLABE: 0141 8092 0007 0929 42
 
-* PayPal: [donativos@brigada-rescate-topos.org](https://www.paypal.com/mx/home)
+* PayPal: [donativos@brigada-rescate-topos.org](https://www.paypal.com/mx/home){:target="_blank"}
   * Da click en “pagar artículos y servicios”, ingresa el mail proporcionado y la cantidad a donar.
 
 ## Cruz Roja MX
-Los médicos, enfermeros y docentes son de extrema importancia. El material de curación, equipo médico y donadores de sangre son escasos frente a los afectados y heridos. **Tu donación a esta institución ayudará a que llegue la ayuda médica necesaria a los damnificados.**
+Los médicos, enfermeros y docentes son de extrema importancia en situaciones como esta. El material de curación, equipo médico y donadores de sangre son escasos frente a los afectados y heridos. **Tu donación a esta institución ayudará a que llegue la ayuda médica necesaria a los damnificados.**
 
-Revisa [aquí](https://www.cruzrojamexicana.org.mx/donar-sangre) las especificaciones para saber si puedes donar sangre y la ubicación de los centros de donación.
+Revisa [aquí](https://www.cruzrojamexicana.org.mx/donar-sangre){:target="_blank"} las especificaciones para saber si puedes donar sangre y la ubicación de los centros de donación.
 
-* Entra directamente a [https://cruzrojadonaciones.org/](https://cruzrojadonaciones.org/)
+* Entra directamente a [https://cruzrojadonaciones.org/](https://cruzrojadonaciones.org/){:target="_blank"}
 
 * Tramite bancario:
   * Banco: Bancomer
@@ -32,7 +32,7 @@ Revisa [aquí](https://www.cruzrojamexicana.org.mx/donar-sangre) las especificac
   * CLABE: 0121 8000 4040 4040 62
   * Nombre: Cruz Roja Mexicana I.A.P.
 
-* Paypal: [https://www.paypal.me/cruzrojamexicana](https://www.paypal.me/cruzrojamexicana)
+* Paypal: [https://www.paypal.me/cruzrojamexicana](https://www.paypal.me/cruzrojamexicana){:target="_blank"}
 
 ## Reconstrucción CDMX (Fondo de Atención a los Desastres Naturales en la Ciudad de México FONADEN CDMX)
 Con más de cuarenta edificios colapsados, los que están siendo demolidos y estructuras frágiles, **se necesitan fondos para la planificación y reconstrucción de zonas afectadas**. Este fondo dirigirá tu dinero al material, equipo y personal para que se lleve a cabo.  
@@ -58,8 +58,8 @@ Se abrieron portales de donación a través de estos dos medios y **por cada $1.
 * Vía Telcel: Manda un mensaje de texto al 55666 con la cantidad que deseas ($100.00 MXN, $200.00 MXN, $300.00 MXN, $500.00 MXN), se cobrará a tu factura.
 
 ## Google
-Google donó 1 millón de dólares tras el sismo, además de facilitar Google Maps con el fin de monitorear centros de acopio y zonas de riesgo.
+Google donó 1 millón de dólares en apoyo a los afectadas por el sismo, además de facilitar GMaps con el fin de monitorear centros de acopio y zonas de riesgo.
 
 Se abrió un portal para donaciones donde **administrarán los recursos para enviarlos a las zonas más afectadas**, puedes donar $90.00 MXN, $350.00 MXN o $700.00 MXN; no es necesario tener una cuenta de Google, basta una tarjeta de crédito/débito.
 
-* Ingresa a: [onetoday.google.com](http://onetoday.google.com)
+* Ingresa a: [onetoday.google.com](http://onetoday.google.com){:target="_blank"}
